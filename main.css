@@ -1,0 +1,150 @@
+.box1{
+  border: solid 5px;
+  border-color: black;
+  width: 400px;
+  height: 500px;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+
+.box1 > img {
+  width: 400px;
+  height: 500px;
+}
+
+.box2{
+  border: solid 5px;
+  border-color: black;
+  width: 350px;
+  height: 200px;
+  position: absolute;
+  top: 7%;
+  left: 5%;
+
+}
+
+.user{
+  position: absolute;
+  top: 10%;
+  font-size: 30pt;
+
+}
+.user input{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.pass{
+  position: absolute;
+  top: 40%;
+  font-size: 30pt;
+}
+.pass input{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.button{
+  position: absolute;
+  top: 75%;
+  left: 40%;
+}
+.box3{
+  border: solid 5px;
+  border-color: black;
+  width: 350px;
+  height: 200px;
+  position: absolute;
+  top: 56%;
+  left: 5%;
+}
+
+.box3 > p {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+.para{
+  text-align: justify;
+  text-transform: lowercase;
+  font-style: italic;
+  vertical-align: 2px;
+}
+.box4{
+  border: solid 5px;
+  border-color: black;
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  left: 38%;
+  top: 5%;
+
+
+}
+.box5{
+  border: solid 5px;
+  border-color: black;
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  left: 38%;
+  top: 40%;
+  
+}
+
+.box5 > img {
+  border-radius: 47%;
+  width: stretch;
+  height: 200px;
+  background-color: black;
+  position: relative;
+  left: 20px;
+  
+}
+.box6{
+  border: solid 4px;
+  border-color: black;
+  width: 420px;
+  height: 500px;
+  position: absolute;
+  left: 70%;
+  top: 5%;
+}
+
+.table {
+  border: 2px solid black;
+  width: 420px;
+  height: 500px;
+  border-collapse: collapse;
+  text-align: center;
+  font-weight: 900;
+}
+
+.light {
+  background-color: whitesmoke;
+}
+
+.dark {
+  background-color:skyblue;
+}
+
+.box7{
+  border: solid 5px;
+  border-color: black;
+  position: relative;
+  height: 200px;
+  width: 1305px;
+  position: absolute;
+  top: 550px;
+  left: 5%;
+  
+
+}
+
+.box7 > .h2 {
+  text-align: center;
+  word-spacing: 10px;
+  text-shadow:5px 2px skyblue;
+  font-size:70px;
+  
+}
